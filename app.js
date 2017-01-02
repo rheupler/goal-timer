@@ -1,7 +1,7 @@
 // require and instantiate express
 var express = require('express');
 var app = express();
-// we'll need the path module to correctly concatenate our paths
+
 var path = require('path');
 
 // tell Express to serve files from our public folder
